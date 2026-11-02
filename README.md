@@ -12,8 +12,9 @@ The code imports the aircraft's aerodynamical properties from an external file, 
 
 
 ## Authors
-- [Piercarlo Mirto](https://www.linkedin.com/in/piercarlo-mirto/)
 - [Vincenzo Junior Di Rosa](https://www.linkedin.com/in/vincenzo-junior-di-rosa/)
+- [Piercarlo Mirto](https://www.linkedin.com/in/piercarlo-mirto/)
+
 
 
 ## Acknowledgments
